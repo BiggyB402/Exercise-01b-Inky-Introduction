@@ -17,7 +17,7 @@ Issac to impress him, but doesn't know what Issac likes. Where should they go?
 There are four different places to choice from.
 
  + [Take Issac to the bowling alley]->bowling_alley
- + [Take Issac to dancing] ->dancing
+ + [Take Issac dancing] ->dancing
  + [Take Issac to karaokee]->karaokee
  + [Take Issac on a picnic] ->picnic
 
